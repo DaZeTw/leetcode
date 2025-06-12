@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/DaZeTw/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/DaZeTw/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/DaZeTw/leetcode/tree/master/0242-valid-anagram) |
+| [2727-number-of-senior-citizens](https://github.com/DaZeTw/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0347-top-k-frequent-elements](https://github.com/DaZeTw/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/DaZeTw/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/DaZeTw/leetcode/tree/master/0907-koko-eating-bananas) |
+| [2727-number-of-senior-citizens](https://github.com/DaZeTw/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
 | ------- |
