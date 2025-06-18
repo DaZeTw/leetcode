@@ -35,6 +35,7 @@
 | [0347-top-k-frequent-elements](https://github.com/DaZeTw/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/DaZeTw/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/DaZeTw/leetcode/tree/master/0907-koko-eating-bananas) |
+| [1803-average-waiting-time](https://github.com/DaZeTw/leetcode/tree/master/1803-average-waiting-time) |
 | [2727-number-of-senior-citizens](https://github.com/DaZeTw/leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Hash Table
 |  |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DaZeTw/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [1803-average-waiting-time](https://github.com/DaZeTw/leetcode/tree/master/1803-average-waiting-time) |
 <!---LeetCode Topics End-->
