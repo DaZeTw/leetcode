@@ -33,6 +33,7 @@
 | [0217-contains-duplicate](https://github.com/DaZeTw/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/DaZeTw/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/DaZeTw/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DaZeTw/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0792-binary-search](https://github.com/DaZeTw/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/DaZeTw/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1803-average-waiting-time](https://github.com/DaZeTw/leetcode/tree/master/1803-average-waiting-time) |
@@ -48,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/DaZeTw/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DaZeTw/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/DaZeTw/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/DaZeTw/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Sorting
 |  |
 | ------- |
