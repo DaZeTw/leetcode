@@ -17,6 +17,7 @@
 | [0125-valid-palindrome](https://github.com/DaZeTw/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/DaZeTw/leetcode/tree/master/0242-valid-anagram) |
 | [2727-number-of-senior-citizens](https://github.com/DaZeTw/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DaZeTw/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0907-koko-eating-bananas](https://github.com/DaZeTw/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1803-average-waiting-time](https://github.com/DaZeTw/leetcode/tree/master/1803-average-waiting-time) |
 | [2727-number-of-senior-citizens](https://github.com/DaZeTw/leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DaZeTw/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [0242-valid-anagram](https://github.com/DaZeTw/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/DaZeTw/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DaZeTw/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DaZeTw/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -115,4 +118,8 @@
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/DaZeTw/leetcode/tree/master/1803-average-waiting-time) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DaZeTw/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
