@@ -38,6 +38,7 @@
 | [0792-binary-search](https://github.com/DaZeTw/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/DaZeTw/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1803-average-waiting-time](https://github.com/DaZeTw/leetcode/tree/master/1803-average-waiting-time) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/DaZeTw/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2727-number-of-senior-citizens](https://github.com/DaZeTw/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DaZeTw/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -90,6 +91,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/DaZeTw/leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/DaZeTw/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/DaZeTw/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [1803-average-waiting-time](https://github.com/DaZeTw/leetcode/tree/master/1803-average-waiting-time) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/DaZeTw/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Trie
 |  |
 | ------- |
