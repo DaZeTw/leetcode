@@ -6,12 +6,14 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/DaZeTw/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DaZeTw/leetcode/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DaZeTw/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/DaZeTw/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DaZeTw/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DaZeTw/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DaZeTw/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/DaZeTw/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/DaZeTw/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/DaZeTw/leetcode/tree/master/0125-valid-palindrome) |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DaZeTw/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DaZeTw/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
