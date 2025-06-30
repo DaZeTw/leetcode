@@ -19,6 +19,7 @@
 | [0125-valid-palindrome](https://github.com/DaZeTw/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/DaZeTw/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/DaZeTw/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2487-optimal-partition-of-string](https://github.com/DaZeTw/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2727-number-of-senior-citizens](https://github.com/DaZeTw/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DaZeTw/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Array
@@ -57,6 +58,7 @@
 | [0347-top-k-frequent-elements](https://github.com/DaZeTw/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/DaZeTw/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/DaZeTw/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2487-optimal-partition-of-string](https://github.com/DaZeTw/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DaZeTw/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Sorting
 |  |
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DaZeTw/leetcode/tree/master/0011-container-with-most-water) |
+| [2487-optimal-partition-of-string](https://github.com/DaZeTw/leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Dynamic Programming
 |  |
 | ------- |
