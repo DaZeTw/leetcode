@@ -9,6 +9,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DaZeTw/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/DaZeTw/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DaZeTw/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DaZeTw/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0125-valid-palindrome](https://github.com/DaZeTw/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/DaZeTw/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/DaZeTw/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DaZeTw/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/DaZeTw/leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2727-number-of-senior-citizens](https://github.com/DaZeTw/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/DaZeTw/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/DaZeTw/leetcode/tree/master/0011-container-with-most-water) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DaZeTw/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/DaZeTw/leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Dynamic Programming
 |  |
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DaZeTw/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/DaZeTw/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
